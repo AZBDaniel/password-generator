@@ -18,6 +18,8 @@ This project solves the genertaion or random passwords which ease allowing to cr
 
 ## Site
 
+https://azbdaniel.github.io/password-generator/
+
 
 
 
